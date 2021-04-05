@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=PureunNoh&fontSize=90)
 
-<h3 align="center"> 👋 Hi there 👋 </h3>
+<h3 align="center"> Hi there 👋 </h3>
 
-<h3 align="center"> My Tech Stack </h3>
+<h3 align="center"> 🔧 My Tech Stack 🔧 </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
