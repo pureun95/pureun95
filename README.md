@@ -1,16 +1,23 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=PureunNoh&fontSize=90)
 
-<!--
-**pureun95/pureun95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Hi there 👋 </h3>
 
-Here are some ideas to get you started:
+<h3 align="center"> Tech Stack </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&link=https://github.com/pureun95/pureun95)
+
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=222222&link=https://github.com/pureun95/pureun95)
+
+![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white&link=https://github.com/pureun95/pureun95)
+
+![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white&link=https://github.com/pureun95/pureun95)
+
+![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white&link=https://github.com/pureun95/pureun95)
+
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=HTML5&logoColor=white&link=https://github.com/pureun95/pureun95)
+
+
+</p>
+
