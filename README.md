@@ -15,12 +15,12 @@
  </p>
  
  
-<h3 align="center"> 🍒 About Me 🍒 </h3>
+<h3 align="center"> 🍒 Mail & Portfolio 🍒 </h3>
 
 
 <p align="center">
- 
- <a href="mailto:pureun95@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+ <a href="mailto:pureun95@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&fontSize=90)
 
