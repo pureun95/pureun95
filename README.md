@@ -26,7 +26,7 @@
 
 <p align="center">
  <a href="mailto:pureun95@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
- <a href="https://pureun.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFBEE0?style=flat-square&logoColor=8F5F8A"/></a>
+ <a href="https://pureun.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFBEE0?style=flat-square&fontColor=8F5F8A"/></a>
 </p>
 
 <br>
