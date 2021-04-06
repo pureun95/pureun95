@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=PureunNoh&fontSize=90)
 
+<br>
+
 <h3 align="center"> Hi there 👋 </h3>
+
+<br>
+<br>
 
 <h3 align="center"> 🔧 My Tech Stack 🔧 </h3>
 
@@ -14,14 +19,18 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
  </p>
  
+ <br>
+ <br>
  
 <h3 align="center"> 🍒 Mail & Portfolio 🍒 </h3>
 
 
 <p align="center">
  <a href="mailto:pureun95@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
- <a href="https://pureun.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFE069?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ <a href="https://pureun.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFBEE0?style=flat-square"/></a>
 </p>
+
+<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&fontSize=90)
 
